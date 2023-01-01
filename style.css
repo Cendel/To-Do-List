@@ -1,0 +1,18 @@
+.tbody tr:nth-child(odd) {
+    background-color: rgb(200, 198, 198);
+}
+
+.tbody tr:nth-child(even),
+.tfoot {
+    background-color: rgb(224, 220, 220);
+}
+
+.tbody .btn {
+    width: 45%;
+    height: 100%;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
